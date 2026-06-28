@@ -8,7 +8,7 @@ import pyqtgraph as pg
 from pyqtgraph.Qt import QtWidgets
 from qasync import QEventLoop
 
-# ---------------- CONFIG ----------------
+# ---------------- CONFIGURATION ----------------
 DEVICE_NAME = "Nano33BLE_Z"   # matches BLE.setLocalName() in the sketch
 Z_CHAR_UUID    = "12345678-1234-1234-1234-1234567890ac"
 CMD_CHAR_UUID  = "12345678-1234-1234-1234-1234567890ad"
