@@ -3,3 +3,19 @@
 .vscode/c_cpp_properties.json
 .vscode/launch.json
 .vscode/ipch
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Build files
+build/
+dist/
+
+# Temporary files
+*.tmp
+*.temp
